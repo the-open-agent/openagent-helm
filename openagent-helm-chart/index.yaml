@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   openagent-helm-chart:
   - apiVersion: v2
+    appVersion: 2.87.0
+    created: "2026-08-03T03:21:42.456487507Z"
+    description: A Helm chart for Kubernetes
+    digest: e59918af2383054343bd0ad8576fabed90fda6fcf3a6ebda438468df041c7025
+    name: openagent-helm-chart
+    type: application
+    urls:
+    - oci://registry-1.docker.io/casbin/openagent-helm-chart-2.87.0.tgz
+    version: 2.87.0
+  - apiVersion: v2
     appVersion: 2.86.0
     created: "2026-08-03T03:02:36.531670654Z"
     description: A Helm chart for Kubernetes
@@ -4731,4 +4741,4 @@ entries:
     urls:
     - oci://registry-1.docker.io/casbin/openagent-helm-chart-v1.549.0.tgz
     version: v1.549.0
-generated: "2026-08-03T03:02:36.525772695Z"
+generated: "2026-08-03T03:21:42.447370255Z"
